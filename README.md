@@ -1,1 +1,1 @@
-# Meachine_Learning_in_Neuroimage
+# Meachine Learning in Neuroimage
